@@ -1,0 +1,8 @@
+﻿  Game.cpp
+c:\users\federico\desktop\project\sfml_example\sfml_example\player.h(13): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\federico\desktop\project\sfml_example\sfml_example\game.cpp(5): note: see reference to function template instantiation 'void Player::setPosition<int,int>(int &&,int &&)' being compiled
+  SFML_Example.vcxproj -> C:\Users\Federico\Desktop\Project\SFML_Example\Debug\SFML_Example.exe
